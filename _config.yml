@@ -1,10 +1,9 @@
 title: Joe Cool's Online Biography
 
 email: hello@joecool.com
-github_url: https://github.com/joecool
-linkedin_url: https://linkedin.com/in/joecool
-medium_url: https://medium.com/joecool
-twitter_url: https://twitter.com/joecool
+medium_url: https://www.instagram.com/buku_koe/
+github_url: https://www.facebook.com/bukQu
+twitter_url: https://bukukoe.com/
 
 exclude: screenshots, LICENSE, README.md
 markdown: kramdown
