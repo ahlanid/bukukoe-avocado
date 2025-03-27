@@ -2,13 +2,10 @@
 layout: default
 ---
 
-# joe cool
+# BukuKoe.Com Libur!
+## Selamat Hari Raya Idul Fitri 1446 H / 2025 M
+Mimin mengucapkan: "Mohon maaf lahir dan batin. Semoga Allah menerima amal ibadah kita di bulan Ramadhan kali ini. Amin."
 
-### I'm a _digital thought leader_ with a passion for _revolutionizing the human condition_
+### Insya Allah buka kembali hari _Selasa_ tanggal _8 April 2025_
 
-Bacon ipsum dolor amet salami leberkas pig short loin porchetta frankfurter cupim
-drumstick meatball tongue alcatra. Turkey [prosciutto capicola](#) alcatra corned beef.
-
-Capicola bresaola pig alcatra andouille porchetta strip steak prosciutto meatball filet
-mignon shank bacon pastrami. Chicken porchetta kielbasa, beef turkey kevin salami.
-Flank bresaola fatback, doner pig tongue alcatra meatball shankle swine jerky.
+Admin kami masih dapat dihubungi tetapi slow response ya.. maklum liburan..
