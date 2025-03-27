@@ -3,7 +3,7 @@ layout: default
 ---
 
 # BukuKoe.Com Libur!
-### Selamat Hari Raya Idul Fitri 1446 H / 2025 M
+### Selamat Hari Raya Idul Fitri 1446 H
 
 Mimin mengucapkan: "Mohon maaf lahir dan batin. Semoga Allah menerima amal ibadah kita di bulan Ramadhan kali ini. Amin."
 
