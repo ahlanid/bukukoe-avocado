@@ -3,8 +3,8 @@ layout: default
 ---
 
 # BukuKoe.Com Libur!
-### Selamat Hari Raya Idul Fitri 1446 H
+### Selamat Hari Raya Idul Fitri 1447 H
 
-Mimin mengucapkan: "Mohon maaf lahir dan batin. Semoga Allah menerima amal ibadah kita di bulan Ramadhan kali ini. Amin."
+Mimin mengucapkan: "Mohon maaf lahir dan batin. _Taqabalallahu minnaa wa minkum_. Semoga Allah menerima amal ibadah kita di bulan Ramadhan ini, dam Allah sampaikan kita pada Ramadhan berikutnya. Amin."
 
-### Insya Allah buka kembali hari _Selasa_ tanggal _8 April 2025_
+### Insya Allah buka kembali hari _Senin_ tanggal _30 Maret 2026_
